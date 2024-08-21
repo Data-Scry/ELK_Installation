@@ -48,7 +48,7 @@ This project contains scripts to automate the installation and configuration of 
 ## Notes
 
 - This setup assumes that each script is executed on a separate node designated for that role.
-- Make sure to customize each script according to your specific environment, such as setting up the correct IP addresses, cluster name, and node roles.
+- Elasticsearch installation script is the same for all node, we are just following our architecture.
 - If needed, additional configurations, like setting up security (TLS, authentication), can be added based on your requirements.
 
 ## Contributing
