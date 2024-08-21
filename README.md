@@ -27,9 +27,9 @@ This project contains scripts to automate the installation and configuration of 
 ## Installation Instructions
 
 1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   ```
+   git clone https://github.com/Data-Scry/ELK_Installation.git
+   cd ELK_Installation
    ```
 
 2. **Execute the Installation Scripts**
